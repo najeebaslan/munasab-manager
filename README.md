@@ -250,7 +250,7 @@
 - ✔ Support Dark and Light Mode (☽,☀️).
 - ✔ Account Signin - SignUp - Reset Password and Account delete.
 
-<img src="assets/icons/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="line-gradient.svg" alt="line break" width="100%" height="3px">
 
 
 ## Core Technical Features
@@ -283,7 +283,7 @@
 | :-----: | :-: |
 |   ✔️    | ✔️  |
 
-<img src="assets/icons/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="line-gradient.svg" alt="line break" width="100%" height="3px">
 
 ## Application structure
 
@@ -323,7 +323,7 @@ After successful build, your application structure should look like this:
 └── app.dart
 ```
 
-<img src="assets/icons/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="line-gradient.svg" alt="line break" width="100%" height="3px">
 
 ## 📚 Libraries and Tools Used
 
