@@ -3,11 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <img alt='logo_design' src='screen_shots/Munasab-design.jpg'/>
-  <!-- <a href="https://github.com/najeebaslan/AppIssue">
-    <img src="assets/images/logo_with_name.png" alt="Logo" width="150" height="150">
-  </a> -->
-
+ <img alt='logo_design' src='https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fmunasab_manager_web_design.jpg?alt=media&token=d3aed5c0-fe7e-45f7-ae6c-74c8bbe4d22e'/>
 <h2 align="center"></h2>
 
 
