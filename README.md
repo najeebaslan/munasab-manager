@@ -157,7 +157,7 @@
 
 
 
-<img src="assets/icons/line-gradient.svg" alt="line break" width="100%" height="3px">
+<img src="line-gradient.svg" alt="line break" width="100%" height="3px">
 
 
 # Quick Links
