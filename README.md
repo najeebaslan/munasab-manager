@@ -11,10 +11,13 @@
 "Munasab Manager" is a comprehensive event management application that allows you to add your specialized event services and showcase them to clients.
     <br />
     <br />
-    <p>      
-      <a href='https://play.google.com/store/apps/details?id=najeeb.aslan.wedding_hall_booking&pcampaignid=web_share'>
-        <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80"/>
-      </a>
+    <p>
+  <a href='https://play.google.com/store/apps/details?id=najeeb.aslan.wedding_hall_booking&pcampaignid=web_share'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="150">
+</a>
+<a href='https://apps.apple.com/ye/app/%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA/id6747415306'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" width="150">
+</a>       
     </p>
   </p>
 </div>
